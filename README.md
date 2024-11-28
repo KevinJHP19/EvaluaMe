@@ -22,3 +22,4 @@ El profesor, con el rol de 'administrador', podrá:
     -Establecer los criterios y rúbricas de evaluación que se utilizarán en las autoevaluaciones y coevaluaciones.
     -Acceder a reportes y estadísticas sobre el desempeño de los estudiantes y la interacción en la plataforma.
 
+![alt text](image.png)
